@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/ubah_484" target="blank"><img src="https://img.shields.io/twitter/follow/ubah_484?logo=twitter&style=for-the-badge" alt="ubah_484" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel, React**
+- 🌱 I’m currently learning **Laravel, React, data structures and algorithms in javascript**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ajax484](https://github.com/ajax484)
 
-- 💬 Ask me about **React, Gsap and Bootstrap**
+- 💬 Ask me about **React, responsive design, data structures and algorithms in javascript**
 
 - 📫 How to reach me **ubahyusuf484@gmail.com**
 
@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajax484&show_icons=true&locale=en" alt="ajax484" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajax484&" alt="ajax484" /></p>
+
+<img href="https://www.codewars.com/users/bilal_yusuf/badges/large" alt="codewars" height="40" width="40" />
