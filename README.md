@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajax484&" alt="ajax484" /></p>
 
-<img href="https://www.codewars.com/users/bilal_yusuf/badges/large" alt="codewars" height="40" width="40" />
+<p align="center"> <img align="center" src="https://www.codewars.com/users/bilal_yusuf/badges/large" alt="codewars" /></p>
