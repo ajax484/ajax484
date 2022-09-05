@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ubah_484" target="blank"><img src="https://img.shields.io/twitter/follow/ubah_484?logo=twitter&style=for-the-badge" alt="ubah_484" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel, React, data structures and algorithms in javascript**
+- 🌱 I’m currently learning **Node, Express, graphQL, data structures and algorithms in javascript**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
